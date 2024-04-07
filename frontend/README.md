@@ -7,3 +7,8 @@
 
 link - por que usar three fiber
 https://cristian-ronda.medium.com/react-y-threejs-e4ac1e5e0504
+
+
+# Three.js
+
+npm install three
