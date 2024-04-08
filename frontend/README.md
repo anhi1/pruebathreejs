@@ -13,3 +13,9 @@ https://cristian-ronda.medium.com/react-y-threejs-e4ac1e5e0504
 
 npm install three
 npm install three @types/three @react-three/fiber
+
+# cupress
+npm install cypress --save-dev
+
+clik en ent to ent
+
